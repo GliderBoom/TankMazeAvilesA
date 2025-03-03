@@ -7993,6 +7993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TankPlayer
       objectReference: {fileID: 0}
+    - target: {fileID: 864669239420719033, guid: 708ea0b5d56720d459239ec168e19d37, type: 3}
+      propertyPath: turnSpeed
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 864669239420719035, guid: 708ea0b5d56720d459239ec168e19d37, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -8232,5 +8236,9 @@ PrefabInstance:
       propertyPath: textbox
       value: 
       objectReference: {fileID: 1149584119}
+    - target: {fileID: 7961442334436157271, guid: 11d5bf1360b09b44199e9f3882246b27, type: 3}
+      propertyPath: scoreToWin
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11d5bf1360b09b44199e9f3882246b27, type: 3}
